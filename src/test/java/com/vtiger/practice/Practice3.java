@@ -5,7 +5,6 @@ import org.testng.annotations.Test;
 
 public class Practice3 {
 
-public class practiceTest {
 	@Test
 	public void practice()
 	{
@@ -24,4 +23,4 @@ Reporter.log("practice", true);
 }
 
 
-}
+
