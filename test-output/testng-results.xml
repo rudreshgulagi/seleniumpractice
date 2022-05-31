@@ -8,19 +8,19 @@
       <![CDATA[practice1]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-05-30T12:40:32Z" name="Default suite" finished-at="2022-05-30T12:40:33Z" duration-ms="518">
+  <suite started-at="2022-05-31T04:06:01Z" name="Default suite" finished-at="2022-05-31T04:06:02Z" duration-ms="1104">
     <groups>
     </groups>
-    <test started-at="2022-05-30T12:40:32Z" name="Default test" finished-at="2022-05-30T12:40:33Z" duration-ms="518">
+    <test started-at="2022-05-31T04:06:01Z" name="Default test" finished-at="2022-05-31T04:06:02Z" duration-ms="1104">
       <class name="com.vtiger.practice.Practice$practiceTest">
-        <test-method signature="practice()[pri:0, instance:com.vtiger.practice.Practice$practiceTest@31e4bb20]" started-at="2022-05-30T12:40:32Z" name="practice" finished-at="2022-05-30T12:40:32Z" duration-ms="221" status="PASS">
+        <test-method signature="practice()[pri:0, instance:com.vtiger.practice.Practice$practiceTest@31e4bb20]" started-at="2022-05-31T04:06:01Z" name="practice" finished-at="2022-05-31T04:06:01Z" duration-ms="442" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[practice]]>
             </line>
           </reporter-output>
         </test-method> <!-- practice -->
-        <test-method signature="practice1()[pri:0, instance:com.vtiger.practice.Practice$practiceTest@31e4bb20]" started-at="2022-05-30T12:40:33Z" name="practice1" finished-at="2022-05-30T12:40:33Z" duration-ms="10" status="PASS">
+        <test-method signature="practice1()[pri:0, instance:com.vtiger.practice.Practice$practiceTest@31e4bb20]" started-at="2022-05-31T04:06:02Z" name="practice1" finished-at="2022-05-31T04:06:02Z" duration-ms="19" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[practice1]]>
